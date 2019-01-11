@@ -1,0 +1,17 @@
+body {
+	text-transform: capitalize;
+}
+h1,h4 {
+	text-align: center;
+}
+form {
+	margin-left: 20%;
+}
+#submit {
+	margin-left: 30%;
+	width: 100px;
+
+}
+#answer {
+	display: none;
+}
